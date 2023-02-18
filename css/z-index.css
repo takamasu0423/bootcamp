@@ -1,0 +1,38 @@
+.wrapper{
+  position: relative;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.dashed-box {
+  position: relative;
+  background-color: #f8a4a4;
+  border: dashed;
+  height: 8em;
+  margin-bottom: 1em;
+  margin-top: 2em;
+  z-index: -1;
+  opacity: 0.5;
+}
+
+.gold-box{
+  position: absolute;
+  background-color: gold;
+  width: 80%;
+  height: 6em;
+  left: 60px;
+  top: 3em;
+  z-index: 2;
+  /* opacity: 0.5; */
+}
+
+.green-box{
+  position: absolute;
+  background-color: lightgreen;
+  width: 20%;
+  left: 65%;
+  top: -25px;
+  height: 7em;
+  z-index: 1;
+  opacity: 0.5;
+
+}

@@ -1,0 +1,37 @@
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+  color: red;
+}
+
+p.ex1{
+ display: none;
+}
+
+p.ex2{
+  display: inline;
+  background-color:black;
+  width: 300px;
+  height: 200px;
+  /* margin: 10px; */
+  /* padding: 10px; */
+ }
+
+ p.ex3 {
+  display: block;
+  background-color:black;
+  width: 300px;
+  height: 200px;
+  margin: 10px;
+  padding: 10px;
+ }
+  p.ex4 {
+    display: inline-block;
+    background-color:black;
+    width: 300px;
+    height: 70px;
+    margin: 10px;
+    padding: 10px;
+  }

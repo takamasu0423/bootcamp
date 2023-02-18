@@ -1,0 +1,24 @@
+input{
+  background-color: grey;
+  width:100%;
+  padding: 8px;
+  margin-bottom: 13px;
+}
+
+button{
+  text-align: center;
+  background-color: green;
+  width: 100%;
+  padding: 8px 0;
+  font-size: 20px;
+  color: white;
+
+}
+
+form{
+  width: 40%;
+  padding: 15px;
+}
+a{
+  text-decoration: none;
+}

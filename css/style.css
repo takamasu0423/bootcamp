@@ -1,0 +1,60 @@
+/* *{
+    color: blue;
+} */
+p{
+    color: red;
+}
+.paragraph-1{
+    color: green;
+}
+.paragraph-2{
+    color: purple;
+}
+#paragraph-3-id{
+    color: aqua;
+}
+
+h1.header-1{
+    color: red;
+}
+h1{
+    color: blue;
+}
+
+ul li{
+    color: #a52a2a;
+}
+.parent .child{
+    color: yellow;
+}
+
+/* body{
+    background-color: rgba(250, 128, 114,0.5)
+} */
+
+#box-1{
+    background-color: red;
+    width: 50%;
+    height: 70%;
+}
+#box-2{
+    background-color: blue;
+    width: 50px;
+    height: 70px;
+}
+
+#box-3{
+    background-color: grey;
+    width: 200px;
+    border: 10px solid blue;
+    padding: 50px;
+    margin: 20px;
+}
+
+#box-4{
+    background-color: orange;
+    width: 100px;
+    padding: 20px;
+    border:1px solid black;
+    margin: 50px;
+}

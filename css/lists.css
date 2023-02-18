@@ -1,0 +1,30 @@
+* {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.lower-alpha{
+  list-style-type: lower-alpha;
+}
+.lower-roman{
+  list-style-type: lower-roman;
+}
+.decimal-leading-zero{
+  list-style-type: decimal-leading-zero;
+}
+
+/* unorderedlists */
+
+.none{
+  list-style-type: none;
+}
+.disc{
+  list-style-type: disc;
+}
+.circle{
+  list-style-type: circle;
+  list-style-position: inside;
+}
+.square{
+  /* shorthand / short method */
+  list-style: square inside;
+}
